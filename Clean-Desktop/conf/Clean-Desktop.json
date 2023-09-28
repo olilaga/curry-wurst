@@ -1,0 +1,15 @@
+{
+    "General": {
+        "BackupLocation": "C:\\Users\\%USERNAME%\\OneDrive\\Documents\\_ Archives",
+        "DateFormat": "yyyyMMdd",
+        "Threshold": 1
+    },
+    "Filter": {
+        "Exclude": ["*.lnk"]
+    },
+    "Debug": {
+        "WhatIf": true
+    }
+
+
+}
