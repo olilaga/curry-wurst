@@ -10,7 +10,7 @@ Here's the default Clean-Desktop.json file:
 
 &nbsp;&nbsp;{   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"General": {   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"BackupLocation": "C:\\Users\\%USERNAME%\\OneDrive\\Documents\\_ Archives",   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"BackupLocation": "C:\\\Users\\\%USERNAME%\\\OneDrive\\\Documents\\\_ Archives",   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"DateFormat": "yyyyMMdd",   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Threshold": 1   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},   
