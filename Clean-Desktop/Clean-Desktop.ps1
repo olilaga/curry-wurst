@@ -74,7 +74,7 @@ if ($Files.Count -ge 1) {
 
     # Creating folder at backup location if needed, then move file.
     foreach ($File in $Files) {
-        $BackupFolderPath = $File.Directory.FullName.Replace($DesktopLocation,$BackupFolderPath)
+        $BackupFolderPath = $File.Directory.FullName.Replace($DesktopLocation,$BackupLocation)
         
         try {
             if (![System.IO.Directory]::Exists($BackupFolderPath)) {
