@@ -3,6 +3,9 @@ This repository contains a collection of handy scripts for various purposes. Whe
 Feel free to explore and use these scripts to make your life easier.
 
 ## Clean-Desktop
+<img alt="Static Badge" src="https://img.shields.io/badge/version-1.0.0-green">
+<img alt="Static Badge" src="https://img.shields.io/badge/release-beta-orange">
+
 
 The Clean-Desktop PowerShell script is a handy tool for archiving and cleaning up files on your desktop. It utilizes a JSON configuration file to customize the cleanup process according to your preferences.   
 
